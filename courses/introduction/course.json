@@ -1,0 +1,16 @@
+{
+  "tile": "introduction course",
+  "subtitle": "Get informed about a topic",
+  "objectives": [
+    "learn faster with an introduction",
+    "become informed about what this introduction is about",
+    "suck less at knowledge"
+  ],
+  "tags": [
+    "Beginner",
+    "Field-specific keyword"
+  ],
+  "moduleNames": [
+    "FirstModule"
+  ]
+}
