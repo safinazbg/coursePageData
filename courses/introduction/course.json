@@ -11,7 +11,8 @@
     "Field-specific keyword"
   ],
   "moduleNames": [
-    "Jupyter notebooks"
+    "Jupyter notebooks",
+    "JupyterLab and notebook interface"
   ],
   "prerequisites": [
     "A reasonably recent version of Jupyter and JupyterLab, which is installed as part of the Conda environment for CodeRefinery workshops.",
