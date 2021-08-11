@@ -1,4 +1,6 @@
-# First Course Module\
+# Second Course Module
 
-exciting introductory materials..
-One of the first notebooks: Galileo’s drawings of Jupiter and its Medicean Stars from Sidereus Nuncius. Image courtesy of the History of Science Collections, University of Oklahoma Libraries (CC-BY)
+alihsf  alhflah lh lorem100gffgffgfg
+
+another image:
+![missing image texkt](https://raw.githubusercontent.com/safinazbg/coursePageData/master/courses/assets/head.jpg)
