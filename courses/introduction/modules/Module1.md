@@ -2,3 +2,5 @@
 
 exciting introductory materials..
 One of the first notebooks: Galileo’s drawings of Jupiter and its Medicean Stars from Sidereus Nuncius. Image courtesy of the History of Science Collections, University of Oklahoma Libraries (CC-BY)
+
+![image alt text](https://raw.githubusercontent.com/safinazbg/coursePageData/master/courses/introduction/assets/22-frank-r-paul.jpg)
