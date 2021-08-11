@@ -11,8 +11,12 @@
     "Field-specific keyword"
   ],
   "moduleNames": [
-    "Module1: Jupyter notebooks",
-    "JupyterLab and notebook interface"
+    "Module 1: Jupyter notebooks",
+    "Module 2: JupyterLab and notebook interface",
+    "Module 3: A first computational notebook",
+    "Module 4: Notebooks and version control",
+    "Module 5: Sharing notebooks",
+    "Module 6: Summary"
   ],
   "prerequisites": [
     "A reasonably recent version of Jupyter and JupyterLab, which is installed as part of the Conda environment for CodeRefinery workshops.",
