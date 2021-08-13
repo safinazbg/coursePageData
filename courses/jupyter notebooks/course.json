@@ -1,6 +1,7 @@
 {
   "title": "Introduction to Jupyter Notebooks",
   "subtitle": "Shareable coding",
+  "brief": "A very brief description of the course. It should not extend the card for aesthetic reasons.",
   "objectives": [
     "learn faster with an introduction",
     "become informed about what this introduction is about",
