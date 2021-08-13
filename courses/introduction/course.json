@@ -1,5 +1,5 @@
 {
-  "title": "Introduction to Jupyter and JupyterLab",
+  "title": "Introduction to Git",
   "subtitle": "Get informed about a topic",
   "objectives": [
     "learn faster with an introduction",
@@ -11,12 +11,12 @@
     "Field-specific keyword"
   ],
   "moduleNames": [
-    "Module 1: Jupyter notebooks",
-    "Module 2: JupyterLab and notebook interface",
-    "Module 3: A first computational notebook",
-    "Module 4: Notebooks and version control",
-    "Module 5: Sharing notebooks",
-    "Module 6: Summary"
+    "Module 1: what is git",
+    "Module 2: how do i get a git?",
+    "Module 3: Why do i still not get git?",
+    "Module 4: I am committed to good commit messages",
+    "Module 5: I will always pull-request",
+    "Module 6: open source is ok-ish"
   ],
   "prerequisites": [
     "A reasonably recent version of Jupyter and JupyterLab, which is installed as part of the Conda environment for CodeRefinery workshops.",
