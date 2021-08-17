@@ -18,7 +18,14 @@
     "Module 3: A first computational notebook",
     "Module 4: Notebooks and version control",
     "Module 5: Sharing notebooks",
-    "Module 6: Summary"
+    "Module 6: Summary",
+    "Module 7: Jupyter notebooks",
+    "Module 8: JupyterLab and notebook interface",
+    "Module 9: A first computational notebook",
+    "Module 10: Notebooks and version control",
+    "Module 11: Sharing notebooks",
+    "Module 12: Summary",
+    "Module 13: Conclusion and thanks for all the fish",
   ],
   "prerequisites": [
     "A reasonably recent version of Jupyter and JupyterLab, which is installed as part of the Conda environment for CodeRefinery workshops.",
