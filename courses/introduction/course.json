@@ -1,7 +1,7 @@
 {
   "title": "Introduction to Git",
   "subtitle": "Get informed about a topic",
-  "logoName": "git.png",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg",
   "brief": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci cupiditate doloribus enim est impedit iure nemo optio porro quidem vel.",
   "objectives": [
     "learn faster with an introduction",
