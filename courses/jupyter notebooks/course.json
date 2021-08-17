@@ -1,7 +1,7 @@
 {
   "title": "Jupyter Notebooks",
   "subtitle": "Shareable coding",
-  "logoUrl": "https://en.wikipedia.org/wiki/Project_Jupyter#/media/File:Jupyter_logo.svg",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg",
   "brief": "A very brief description of the course. It should not extend the card for aesthetic reasons.",
   "objectives": [
     "learn faster with an introduction",
