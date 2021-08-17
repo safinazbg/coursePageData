@@ -25,7 +25,7 @@
     "Module 10: I am committed to good commit messages",
     "Module 11: I will always pull-request",
     "Module 12: open source is ok-ish",
-    "Module 13: what is git",
+    "Module 13: what is git"
   ],
   "prerequisites": [
     "A reasonably recent version of Jupyter and JupyterLab, which is installed as part of the Conda environment for CodeRefinery workshops.",
